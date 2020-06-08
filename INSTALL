@@ -15,5 +15,5 @@ pip:
 
    pip install django-generic-filters
 
-Don't forget to register your application in your Django
+Don't forget to register ``django_genericfilters`` in your Django
 ``INSTALLED_APPS`` setting.
